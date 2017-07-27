@@ -1,7 +1,5 @@
 #Project Funding System
 
-<b>Author</b>: Yi Qin, Meng Wang
-
 If you want to run the code locally, you should install Laravel enviornment:
 https://laravel.com/docs/5.4/installation
 
