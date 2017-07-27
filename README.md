@@ -12,6 +12,9 @@ Create the database named 'finalproject' and import the database through the fil
 Go to the code file and type <b>php artisan serve</b> to run the server
 Type localhost:8000 in browser to go to the home page of our system.
 
+###Result
+For the details, please see the report.pdf in the same directory.
+
 
 
 
